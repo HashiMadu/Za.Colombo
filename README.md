@@ -1,5 +1,5 @@
-# Za.Colombo  
-Sri Lankan Restaurant Web Site 🍛🌿
+# Za.Colombo   <br>
+Sri Lankan Restaurant Web Site 
 
 ## 🎓 2025年2月 進級展作品  
 Trident College – Web制作作品  
@@ -10,6 +10,8 @@ Trident College – Web制作作品
 
 ## 🔗 作品リンク  
 [👉 Za.Colombo Webサイトを開く](https://hashi1920.kilo.jp/colombo/)
+ <br>
+  <br>
 
 ## 📍 実店舗情報（架空）  
 名古屋市栄｜スリランカ家庭料理
@@ -19,23 +21,31 @@ Trident College – Web制作作品
 - スリランカ人オーナーが経営するレストランで、本場スリランカ料理の味をお届けします。  
 - スリランカ特有のスパイスとレシピを使って丁寧に作られている。
 
+  ---
+   <br> <br>
+
 ## 🗓️ 制作期間  
 3ヶ月（2024年10月〜2025年1月）／週3コマ
 
 ---
+ <br> 
+ <br>
 
 ## 🛠️ 使用技術  
-- HTML  
-- CSS  
-- JavaScript  
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 ## 使用ツール  
-- Figma（デザイン）  
-- Photoshop  
-- Illustrator（画像加工）  
-- Adobe Premiere  
+[![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![Photoshop](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
+[![Illustrator](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
+[![Adobe Premiere](https://skillicons.dev/icons?i=ae)](https://skillicons.dev)
+
 
 ---
+ <br> 
+ <br>
 
 ## ヒアリング
 
@@ -45,46 +55,58 @@ Trident College – Web制作作品
 ### レストランの対象
 - もっと多くの日本人のお客様に来て欲しい
 
+  ---
+   <br>
+    <br>
+
 ### 配色
 
 - メインカラー: #ecb00f  
 - ベースカラー: #FFFFFF  
 - アクセントカラー: #d63d0f
 
+  ---
+   <br> <br>
+
 ### ロゴ  
-![Logo](./readme_1/yaka.svg)  
 
-### ショップカード  
-<div align="center">
-  <!-- First Image -->
-  ![Shop Card 1](https://github.com/yourusername/yourrepo/raw/main/readme_1/frame_2.png)  
-  <br> <!-- Line break for space -->
-  
-  <!-- Down Arrow -->
-  <img src="https://example.com/down-arrow.png" alt="Down Arrow" width="50" style="margin: 20px 0;">  
-  <br> <!-- Line break for space -->
+<img src="./readme_1/yaka.svg" width="200" height="200" />
 
-  <!-- Second Image -->
-  ![Shop Card 2](https://github.com/yourusername/yourrepo/raw/main/readme_1/frame_3.png)
-</div>
 
 ---
+ <br>
+  <br>
+
+
+
+### ショップカード  
+![Shop Card](https://github.com/HashiMadu/Za.colombo/main/readme_1/frame_2.png)  
+![Shop Card](https://github.com/yourusername/yourrepo/blob/main/readme_1/frame_3.png)  
+
+
+---
+ <br> <br>
 
 ## 🎯 コンセプト  
 外国人と日本人の両方に魅力を伝えるスリランカレストランのWebサイト。  
 鮮やかな色使いと伝統的な雰囲気を両立させたデザイン。
 
 ---
-
-
-
+ <br>
+  <br>
 
 ## 📜 メニュー  
-メニューでは、料理の詳細な説明、価格、そして使用されているスパイスを確認できるボタンをご用意しています。  
-![Menu Example](./readme_1/menu.png)  
-![Menu Example](./readme_1/spices.png)  
-
----
+メニューでは、料理の詳細な説明、価格、そして使用されているスパイスを確認できるボタンをご用意しています。
+![Menu Example](./readme_1/menu.png) 
+  <br>
+   <br>
+    <br>
+ ![Arrow](./readme_1/arrow.png)
+  <br>  
+   <br>
+    <br>
+![Menu Example](./readme_1/spices.png)  <br>
+ <br>
 
 ## 📸 こだわりポイント  
 - トップページに伝統的な建物と料理の写真を使用  
@@ -93,7 +115,14 @@ Trident College – Web制作作品
 - 英語と日本語の両方に対応  
 - 料理に使用されているスパイスの詳細を表示  
 - スリランカに関する情報とレストランのロゴの説明を提供
-
-
+ 
 
 ---
+
+
+
+
+
+
+
+
