@@ -71,6 +71,12 @@ Trident College – Web制作作品
 
 ---
 
+## 📜 メニュー  
+メニューでは、料理の詳細な説明、価格、そして使用されているスパイスを確認できるボタンをご用意しています。
+![Menu Example](./readme_1/menu.png) 
+--
+![Menu Example](./readme_1/spices.png)  <br>
+
 ## 📸 こだわりポイント  
 - トップページに伝統的な建物と料理の写真を使用  
 - 多国籍の人がわかりやすいレイアウト  
@@ -82,11 +88,7 @@ Trident College – Web制作作品
 
 ---
 
-## 📜 メニュー  
-メニューでは、料理の詳細な説明、価格、そして使用されているスパイスを確認できるボタンをご用意しています。
-![Menu Example](./readme_1/menu.png) 
---
-![Menu Example](./readme_1/spices.png)  
+
 
 ---
 
