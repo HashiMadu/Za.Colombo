@@ -21,7 +21,7 @@ Trident College – Web制作作品
 - スリランカ人オーナーが経営するレストランで、本場スリランカ料理の味をお届けします。  
 - スリランカ特有のスパイスとレシピを使って丁寧に作られている。
 
-  --
+  ---
    <br> <br>
 
 ## 🗓️ 制作期間  
@@ -55,7 +55,7 @@ Trident College – Web制作作品
 ### レストランの対象
 - もっと多くの日本人のお客様に来て欲しい
 
-  --
+  ---
    <br>
     <br>
 
@@ -65,7 +65,7 @@ Trident College – Web制作作品
 - ベースカラー: #FFFFFF  
 - アクセントカラー: #d63d0f
 
-  --
+  ---
    <br> <br>
 
 ### ロゴ  
@@ -84,14 +84,14 @@ Trident College – Web制作作品
 ![Shop Card](https://github.com/yourusername/yourrepo/blob/main/readme_1/frame_3.png)  
 
 
---
+---
  <br> <br>
 
 ## 🎯 コンセプト  
 外国人と日本人の両方に魅力を伝えるスリランカレストランのWebサイト。  
 鮮やかな色使いと伝統的な雰囲気を両立させたデザイン。
 
---
+---
  <br>
   <br>
 
@@ -116,7 +116,7 @@ Trident College – Web制作作品
 - スリランカに関する情報とレストランのロゴの説明を提供
  
 
---
+---
 
 
 
