@@ -59,7 +59,7 @@ Trident College – Web制作作品
 
 
 ### ショップカード  
-![Shop Card](https://github.com/yourusername/yourrepo/blob/main/readme_1/frame_2.png)  
+![Shop Card](https://github.com/HashiMadu/Za.colombo/main/readme_1/frame_2.png)  
 ![Shop Card](https://github.com/yourusername/yourrepo/blob/main/readme_1/frame_3.png)  
 
 
