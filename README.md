@@ -53,7 +53,7 @@ Trident College – Web制作作品
 
 ### ロゴ  
 
-![Logo](./readme_1/yaka.svg)
+<img src="./readme_1/yaka.svg" width="200" height="200" />
 
 
 ### ショップカード  
