@@ -6,5 +6,5 @@ resturant Web Site
 <br>
 <img src="./readme_1/main.png">
 <br>
-**作品リンク**：(https://hashi1920.kilo.jp/colombo/)
+**text**：(https://hashi1920.kilo.jp/colombo/)
 
