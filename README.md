@@ -75,7 +75,7 @@ Trident College – Web制作作品
 メニューでは、料理の詳細な説明、価格、そして使用されているスパイスを確認できるボタンをご用意しています。
 ![Menu Example](./readme_1/menu.png) 
   <br>  
-  <img src="readme_1/arrow.png" alt="Down Arrow" width="50">  
+ ![Arrow](./readme_1/arrow.png)
   <br>  
 ![Menu Example](./readme_1/spices.png)  <br>
 
