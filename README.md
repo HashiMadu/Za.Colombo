@@ -68,7 +68,10 @@ Trident College – Web制作作品
 ## 📸 こだわりポイント  
 - トップページに伝統的な建物と料理の写真を使用  
 - 多国籍の人がわかりやすいレイアウト  
-- スマホ対応（レスポンシブデザイン）
+- スマホ対応（レスポンシブデザイン）  
+- English/Japanese language support  
+- Spice details included in the menu  
+- Information about Sri Lanka and the restaurant’s logo description  
 
 ---
 
