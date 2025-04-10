@@ -57,9 +57,11 @@ Trident College – Web制作作品
 <img src="./readme_1/yaka.svg" width="200" height="200" />
 
 
+
 ### ショップカード  
-![Shop Card](./readme_1/frame_2.png)  
-![Shop Card](./readme_1/frame_3.png)  
+![Shop Card](https://github.com/yourusername/yourrepo/blob/main/readme_1/frame_2.png)  
+![Shop Card](https://github.com/yourusername/yourrepo/blob/main/readme_1/frame_3.png)  
+
 
 ---
 
