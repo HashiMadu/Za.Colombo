@@ -1,5 +1,5 @@
 # Za.Colombo   <br>
-##Sri Lankan Restaurant Web Site ##
+Sri Lankan Restaurant Web Site 
 
 ## 🎓 2025年2月 進級展作品  
 Trident College – Web制作作品  
@@ -10,6 +10,8 @@ Trident College – Web制作作品
 
 ## 🔗 作品リンク  
 [👉 Za.Colombo Webサイトを開く](https://hashi1920.kilo.jp/colombo/)
+ <br>
+  <br>
 
 ## 📍 実店舗情報（架空）  
 名古屋市栄｜スリランカ家庭料理
@@ -20,11 +22,14 @@ Trident College – Web制作作品
 - スリランカ特有のスパイスとレシピを使って丁寧に作られている。
 
   --
+   <br> <br>
 
 ## 🗓️ 制作期間  
 3ヶ月（2024年10月〜2025年1月）／週3コマ
 
 ---
+ <br> 
+ <br>
 
 ## 🛠️ 使用技術  
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
@@ -39,6 +44,8 @@ Trident College – Web制作作品
 
 
 ---
+ <br> 
+ <br>
 
 ## ヒアリング
 
@@ -49,6 +56,8 @@ Trident College – Web制作作品
 - もっと多くの日本人のお客様に来て欲しい
 
   --
+   <br>
+    <br>
 
 ### 配色
 
@@ -57,6 +66,7 @@ Trident College – Web制作作品
 - アクセントカラー: #d63d0f
 
   --
+   <br> <br>
 
 ### ロゴ  
 
@@ -64,6 +74,8 @@ Trident College – Web制作作品
 
 
 --
+ <br>
+  <br>
 
 
 
@@ -73,12 +85,15 @@ Trident College – Web制作作品
 
 
 --
+ <br> <br>
 
 ## 🎯 コンセプト  
 外国人と日本人の両方に魅力を伝えるスリランカレストランのWebサイト。  
 鮮やかな色使いと伝統的な雰囲気を両立させたデザイン。
 
 --
+ <br>
+  <br>
 
 ## 📜 メニュー  
 メニューでは、料理の詳細な説明、価格、そして使用されているスパイスを確認できるボタンをご用意しています。
