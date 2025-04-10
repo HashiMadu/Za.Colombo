@@ -25,15 +25,16 @@ Trident College – Web制作作品
 ---
 
 ## 🛠️ 使用技術  
-- HTML  
-- CSS  
-- JavaScript  
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 ## 使用ツール  
-- Figma（デザイン）  
-- Photoshop  
-- Illustrator（画像加工）  
-- Adobe Premiere  
+[![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![Photoshop](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
+[![Illustrator](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
+[![Adobe Premiere](https://skillicons.dev/icons?i=ae)](https://skillicons.dev)
+
 
 ---
 
@@ -57,8 +58,8 @@ Trident College – Web制作作品
 
 
 ### ショップカード  
-![Shop Card](./readme_1/frame2.png)  
-![Shop Card](./readme_1/frame3.png)  
+![Shop Card](./readme_1/frame_2.png)  
+![Shop Card](./readme_1/frame_3.png)  
 
 ---
 
