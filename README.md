@@ -45,19 +45,16 @@ Trident College – Web制作作品
 ### レストランの対象
 - もっと多くの日本人のお客様に来て欲しい
 
-### メインカラー
-- #ecb00f
+### 配色
 
-### ベースカラー
-- #FFFFFF
+- メインカラー: #ecb00f  
+- ベースカラー: #FFFFFF  
+- アクセントカラー: #d63d0f
 
-### アクセントカラー
-- #d63d0f
-
-### ロゴ
+### ロゴ  
 ![Logo](./path_to_logo_image)  
 
-### ショップカード
+### ショップカード  
 ![Shop Card](./path_to_shop_card_image)  
 
 ---
@@ -80,3 +77,4 @@ Trident College – Web制作作品
 ![Menu Example](./path_to_menu_image)  
 
 ---
+
