@@ -73,7 +73,7 @@ Trident College – Web制作作品
 <img src="./readme_1/yaka.svg" width="200" height="200" />
 
 
---
+---
  <br>
   <br>
 
