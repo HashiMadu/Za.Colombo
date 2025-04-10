@@ -52,7 +52,8 @@ Trident College – Web制作作品
 - アクセントカラー: #d63d0f
 
 ### ロゴ  
-![Logo](./readme_1/yaka.svg) 
+
+![Logo](./readme_1/main.png)
 
 
 ### ショップカード  
