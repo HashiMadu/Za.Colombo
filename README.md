@@ -52,10 +52,12 @@ Trident College – Web制作作品
 - アクセントカラー: #d63d0f
 
 ### ロゴ  
-![Logo](./path_to_logo_image)  
+![Logo](./readme_1/yaka.svg) 
+
 
 ### ショップカード  
-![Shop Card](./path_to_shop_card_image)  
+![Shop Card](./readme_1/frame2.png)  
+![Shop Card](./readme_1/frame3.png)  
 
 ---
 
@@ -77,8 +79,9 @@ Trident College – Web制作作品
 ---
 
 ## 📜 メニュー  
-メニューでは、料理の詳細な説明、価格、そして使用されているスパイスを確認できるボタンをご用意しています。  
-![Menu Example](./path_to_menu_image)  
+メニューでは、料理の詳細な説明、価格、そして使用されているスパイスを確認できるボタンをご用意しています。
+![Menu Example](./readme_1/menu.png)  
+![Menu Example](./readme_1/spices.png)  
 
 ---
 
