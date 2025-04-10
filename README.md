@@ -85,3 +85,15 @@ Trident College – Web制作作品
 
 ---
 
+### ロゴ  
+![Logo](./readme_1/logo.svg)
+
+### ショップカード  
+![Shop Card 1](./readme_1/frame2.png)  
+![Shop Card 2](./readme_1/frame3.png)  
+
+### メニュー  
+![Menu Example](./readme_1/menu.png)  
+![Spices Example](./readme_1/spices.png)
+
+
