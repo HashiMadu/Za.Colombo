@@ -4,5 +4,5 @@ resturant Web Site
 <br>
 # 2025年2月_進級展作品_Za.Colombo Webサイト
 <br>
-![main image](main.png)
+<img src="./readme_1/main.png">
 
