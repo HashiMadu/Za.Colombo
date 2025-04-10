@@ -53,7 +53,7 @@ Trident College – Web制作作品
 
 ### ロゴ  
 
-![Logo](./readme_1/main.png)
+![Logo](./readme_1/yaka.svg)
 
 
 ### ショップカード  
@@ -81,20 +81,12 @@ Trident College – Web制作作品
 
 ## 📜 メニュー  
 メニューでは、料理の詳細な説明、価格、そして使用されているスパイスを確認できるボタンをご用意しています。
-![Menu Example](./readme_1/menu.png)  
+![Menu Example](./readme_1/menu.png) 
+--
 ![Menu Example](./readme_1/spices.png)  
 
 ---
 
-### ロゴ  
-![Logo](./readme_1/logo.svg)
 
-### ショップカード  
-![Shop Card 1](./readme_1/frame_2.png)  
-![Shop Card 2](./readme_1/frame_3.png)  
-
-### メニュー  
-![Menu Example](./readme_1/menu.png)  
-![Spices Example](./readme_1/spices.png)
 
 
